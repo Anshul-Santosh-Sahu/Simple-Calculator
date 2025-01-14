@@ -38,4 +38,4 @@ build/
 .env.*.local
 
 # Images uploaded for background or logo
-image.png
+screenshot.png
